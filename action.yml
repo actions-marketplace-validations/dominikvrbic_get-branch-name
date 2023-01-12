@@ -1,0 +1,14 @@
+name: 'get-branch-name'
+description: 'Get the branch name'
+inputs:
+  branch:
+    description: 'The branch name'
+    required: true
+outputs:
+  name:
+    description: 'The branch name'
+runs:
+  using: 'node16'
+  main: 'index.js'
+
+      
