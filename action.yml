@@ -1,4 +1,4 @@
-name: 'get-branch-name'
+name: 'dv-get-branch-name'
 description: 'Get the branch name'
 inputs:
   branch:
