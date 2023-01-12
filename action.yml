@@ -1,4 +1,8 @@
 name: 'dv-get-branch-name'
+author: 'Dominik Vrbic'
+branding:
+  icon: 'git-branch'
+  color: 'blue'
 description: 'Get the branch name'
 inputs:
   branch:
